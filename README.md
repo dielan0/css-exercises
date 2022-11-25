@@ -1,1 +1,1 @@
-# css-exercises
+SECOND ASSIGNMENT

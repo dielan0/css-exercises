@@ -1,0 +1,24 @@
+.odd-numbers {
+    background-color: hsl(352, 100%, 84%);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+  }
+
+  .second-element {
+    color: blue;
+    font-size: 36px;
+  }
+
+  .fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .odd-numbers#preview {
+    font-size: 24px;
+  }
+
+
+
+
+ 
